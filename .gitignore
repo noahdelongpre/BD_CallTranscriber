@@ -1,0 +1,7 @@
+node_modules/
+transcripts/
+*.log
+.DS_Store
+Thumbs.db
+
+.hermes/
