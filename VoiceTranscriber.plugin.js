@@ -2,7 +2,7 @@
  * @name VoiceTranscriber
  * @version 0.1.0
  * @description Transcribes voice call audio per-user to text files.
- * @author Hermes
+ * @author Killerishere
  * @authorId 0
  * @source https://github.com/example/VoiceTranscriber
  */
@@ -3239,7 +3239,7 @@ module.exports = (() => {
 
                 // --- BetterDiscord v4 plugin metadata + lifecycle ---
                 getName() { return PLUGIN_NAME; }
-                getAuthor() { return "Hermes"; }
+                getAuthor() { return "Killerishere"; }
                 getVersion() { return PLUGIN_VERSION; }
                 getDescription() { return "Transcribes voice call audio per-user to text files."; }
                 load() { }
