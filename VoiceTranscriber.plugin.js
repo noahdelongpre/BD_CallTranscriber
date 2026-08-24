@@ -4,7 +4,7 @@
  * @description Transcribes voice call audio per-user to text files.
  * @author Killerishere
  * @authorId 0
- * @source https://github.com/example/VoiceTranscriber
+ * @source https://github.com/noahdelongpre/BD_CallTranscriber
  */
 
 /*@cc_on @*/
